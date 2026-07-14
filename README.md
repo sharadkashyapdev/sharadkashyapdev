@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I build scalable and reliable software systems with a strong focus on backend engineering, automation, data engineering, and clean software architecture.
+I build scalable, reliable, and maintainable software systems with a focus on backend engineering, automation, data engineering, and software architecture.
 
 I'm passionate about designing software that solves real-world problems through practical engineering, thoughtful architecture, and continuous learning.
 
@@ -10,24 +10,24 @@ I'm passionate about designing software that solves real-world problems through 
 
 ## 🚀 Current Focus
 
-- Backend Development
-- PHP & Python
-- Automation
-- Data Engineering
-- Software Architecture
-- System Design
+* Backend Development
+* PHP & Python
+* Automation
+* Data Engineering
+* Software Architecture
+* System Design
 
 ---
 
 ## 🛠 Tech Stack
 
-- PHP
-- Python
-- JavaScript
-- MySQL
-- HTML & CSS
-- Git & GitHub
-- REST APIs
+* PHP
+* Python
+* JavaScript
+* MySQL
+* HTML & CSS
+* Git & GitHub
+* REST APIs
 
 ---
 
@@ -39,27 +39,27 @@ I'm continuously expanding my knowledge of software architecture, scalable syste
 
 ## 🎯 Engineering Principles
 
-- Write clean, maintainable, and well-documented code.
-- Build scalable software with long-term thinking.
-- Solve practical engineering problems.
-- Learn continuously through real-world projects.
-- Prioritize quality over shortcuts.
+* Write clean, maintainable, and well-documented code.
+* Build scalable software with long-term thinking.
+* Solve practical engineering problems.
+* Learn continuously through real-world projects.
+* Prioritize quality over shortcuts.
 
 ---
 
 ## 🚧 Featured Work
 
-I treat GitHub as my engineering portfolio rather than simply a code repository.
+I use GitHub as a public engineering portfolio that documents how I approach software design, architecture, automation, and real-world problem solving.
 
-Every public project is carefully selected to demonstrate practical problem-solving, clean architecture, maintainable code, and professional engineering standards.
+Every public repository is intended to demonstrate clean code, thoughtful engineering decisions, maintainable architecture, and continuous improvement.
 
 Current areas of work include:
 
-- Backend Engineering
-- Automation
-- Data Engineering
-- Intelligent Software Systems
-- Software Architecture
+* Backend Engineering
+* Automation
+* Data Engineering
+* Intelligent Software Systems
+* Software Architecture
 
 ---
 
@@ -67,16 +67,18 @@ Current areas of work include:
 
 I'm available for freelance projects involving:
 
-- PHP Development
-- Python Automation
-- Backend Development
-- REST API Development
-- Software Architecture
+* PHP Development
+* Python Development
+* Backend Development
+* Automation & Internal Tools
+* REST API Development
+* Data Engineering
+* Software Architecture
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/sharadkashyapdev
+* GitHub: https://github.com/sharadkashyapdev
 
 More professional links will be added as they become available.
