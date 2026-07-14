@@ -2,9 +2,9 @@
 
 ### Software Engineer
 
-I build scalable and reliable software systems with a strong focus on backend engineering, automation, and data engineering.
+I build scalable and reliable software systems with a strong focus on backend engineering, automation, data engineering, and clean software architecture.
 
-I'm passionate about designing clean architectures, solving real-world engineering problems, and continuously improving through practical projects.
+I'm passionate about designing software that solves real-world problems through practical engineering, thoughtful architecture, and continuous learning.
 
 ---
 
@@ -33,17 +33,45 @@ I'm passionate about designing clean architectures, solving real-world engineeri
 
 ## 📖 Currently Learning
 
-I'm continuously improving my knowledge of software architecture, scalable system design, automation, and modern backend engineering.
+I'm continuously expanding my knowledge of software architecture, scalable system design, automation, and modern backend engineering.
 
 ---
 
 ## 🎯 Engineering Principles
 
-- Write clean and maintainable code.
-- Build scalable software systems.
-- Document work clearly.
-- Keep learning through real-world projects.
-- Focus on long-term engineering quality over short-term shortcuts.
+- Write clean, maintainable, and well-documented code.
+- Build scalable software with long-term thinking.
+- Solve practical engineering problems.
+- Learn continuously through real-world projects.
+- Prioritize quality over shortcuts.
+
+---
+
+## 🚧 Featured Work
+
+I treat GitHub as my engineering portfolio rather than simply a code repository.
+
+Every public project is carefully selected to demonstrate practical problem-solving, clean architecture, maintainable code, and professional engineering standards.
+
+Current areas of work include:
+
+- Backend Engineering
+- Automation
+- Data Engineering
+- Intelligent Software Systems
+- Software Architecture
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm available for freelance projects involving:
+
+- PHP Development
+- Python Automation
+- Backend Development
+- REST API Development
+- Software Architecture
 
 ---
 
@@ -51,4 +79,4 @@ I'm continuously improving my knowledge of software architecture, scalable syste
 
 - GitHub: https://github.com/sharadkashyapdev
 
-More professional links will be added soon.
+More professional links will be added as they become available.
